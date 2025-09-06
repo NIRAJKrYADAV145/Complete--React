@@ -25,7 +25,13 @@ It serves as both my learning journey and a showcase of my frontend development 
 4. **🛍️ Myntra Clone**  
    - A front-end clone of the Myntra e-commerce website.  
    - Features: Product listing, filters, cart page (UI only).  
-   - [Project Folder](./myntra)  
+   - [Project Folder](./myntra)
+5. 🛠️ Employee Management System  
+
+  - A task management system where **Admin** can assign projects to employees and track their progress.  
+  - Features: **Task allocation, progress tracking, and status updates (New, Active, Completed, Failed).**  
+  - [Project Folder](./EMS)
+
 
 ---
 
