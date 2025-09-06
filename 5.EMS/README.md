@@ -1,9 +1,9 @@
-Employee Management System
+__EMPLOYEE-MANAGEMENT-SYSTEM__
 
 An Employee Management System built with React (frontend).
 This system helps admins manage employees, assign tasks, and track progress, while employees can view and manage their assigned tasks.
 
-🚀 Features
+__🚀 Features__
  
     👨‍💼 Admin
 
@@ -13,7 +13,7 @@ This system helps admins manage employees, assign tasks, and track progress, whi
 
     3. Track project status: New, Active, Completed, Failed.
 
-  👨‍💻 Employee
+  __👨‍💻 Employee__
 
    1. View assigned projects.
    
@@ -21,7 +21,7 @@ This system helps admins manage employees, assign tasks, and track progress, whi
 
    3. Update progress on tasks.
 
- 📊 Task Tracking
+ __📊 Task Tracking__
 
    The system categorizes tasks into:
 
